@@ -1,0 +1,47 @@
+
+body {
+    background: linear-gradient(0deg, #0b27f4 0%, #ffffff 100%);
+}
+
+
+
+p {
+font-style: normal;
+font-size: 20px;
+color: black;
+}
+
+.conteiner {
+display: inline-block;
+text-align: center;
+
+
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: black;
+}
+
+h3{
+font-size: 30px;
+text-align: center;
+}
+li {
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 25px;
+}
+
+.img-conteiner {
+ text-align: center;
+}
+
+
+
+
+
+
+
